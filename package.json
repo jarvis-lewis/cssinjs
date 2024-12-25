@@ -1,5 +1,6 @@
 {
   "name": "@sryd/cssinjs",
+  "private": false,
   "version": "2.0.0",
   "description": "Component level cssinjs resolution for Siraya",
   "keywords": [
